@@ -181,7 +181,7 @@ namespace I2C_LCD1602 {
     /**
      * 关闭液晶的背光1
      */
-    //% blockId="I2C_LCD1620_BACKLIGHT_OFF" block="关闭液晶背光"
+    //% blockId="I2C_LCD1620_BACKLIGHT_OFF" block="关闭液晶背光sanyc"
     //% weight=70 blockGap=8
     //% parts=LCD1602_I2C trackArgs=0
     export function BacklightOff(): void {
