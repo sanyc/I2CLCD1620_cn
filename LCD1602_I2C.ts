@@ -179,7 +179,7 @@ namespace I2C_LCD1602 {
     }
 
     /**
-     * 关闭液晶的背光
+     * 关闭液晶的背光1
      */
     //% blockId="I2C_LCD1620_BACKLIGHT_OFF" block="关闭液晶背光"
     //% weight=70 blockGap=8
